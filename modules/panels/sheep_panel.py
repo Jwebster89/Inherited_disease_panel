@@ -1,0 +1,10 @@
+sheep_panel=['Yellow-fat_BCO2_c196', 'X_rs429267684', 'X_rs404465000', 'Tay-Sachs_HEXA_c1330', 'Scrapie_PRNP_pR171Q', 'Scrapie_PRNP_pR171K',
+            'Scrapie_PRNP_pR154H', 'Scrapie_PRNP_pL141F', 'Scrapie_PRNP_pA136V', 'Poll_RXFP2_c1098', 'Poll_OAR10-29546872.1', 'Poll_OAR10-29458450_c2059',
+            'PHA_ADAMTS3_c1422minus10', 'PCT_UROD_c392', 'oY2', 'oY1', 'Otocephaly_OTX2_c265', 'OPP_ZNF389_delAT', 'OD_ADAMTS2_p269', 'OD_ADAMTS2_p142', 
+            'NCL_CTSD_c934', 'NCL_CLN6_c184', 'NCL_CLN5_c571plus1', 'Myotonia_CLCN1_p93', 'MSTN_c2568', 'MND_AGTPBP1_c2909', 'Microphthalmia_PITX3_c338', 
+            'MHFDS_TMEM67_c2050', 'McArdles_PGYM_c2529minus1', 'LCH_RELN_c5410', 'Inherited-rickets_DMP1_c250', 'Hypotrichosis_HR_c1312', 'Haemophilia-A_F8_c3107', 
+            'GM1_GLB1_p229', 'GaucherT1_GBA_c1142', 'Fecundity_GDF9_c943', 'Fecundity_GDF9_c1279', 'Fecundity_GDF9_c1184', 'Fecundity_GDF9_c1111', 'Fecundity_GDF9_c1034', 
+            'Fecundity_BMPR1B_c914', 'Fecundity_BMP15_p321', 'Fecundity_BMP15_p299', 'Fecundity_BMP15_c950', 'Fecundity_BMP15_c525', 'Fecundity_BMP15_c301', 'Fecundity_BMP15_c1100', 
+            'Fecundity_BMP15_c1009', 'Fecundity_B4GALNT2_c28075', 'FEA_FGF14_c46', 'Ebj_LAMC2_c2746', 'EBj_ITGB4_c4412', 'Chondrodysplasia_FGFR3_c1719', 'CC-tawny_TYRP1_c869', 
+            'CC-rec-pheo_MC1R_c199', 'CC-recessblk_ASIP_g5172', 'CC-recessblk_ASIP_D9', 'CC-recessblk_ASIP_D5', 'CC-DB_MC1R_c785', 'CC-DB_MC1R_c361', 'CC-DB_MC1R_c218', 
+            'CC-brown_TYRP1_c1066', 'Callipyge_DLK1_c1492plus55654', 'BCRHS_OBSL1_c1716']
